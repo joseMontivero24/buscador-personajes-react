@@ -1,8 +1,10 @@
-# React + Vite
+# GifExpertApp - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto desarrollado en React.js y para la parte de los estilos se utilizo css nativo.
+La app es un bucador de gifs de personajes que consiste en buscar por el nombre del personaje y mediante el consumo de una api gifs trae las imagenes y los nombres. También cuenta con la funcionalidad del modo dark y es completamente responsive. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologias utilizadas:
+- React.js
+- Vite
+- CSS
